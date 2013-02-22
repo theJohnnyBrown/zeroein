@@ -31,3 +31,6 @@
 [submodule "ert"]
 	path = ert
 	url = git://github.com/ohler/ert.git
+[submodule "emacs-request"]
+	path = emacs-request
+	url = git://github.com/tkf/emacs-request.git
